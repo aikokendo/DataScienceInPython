@@ -1,5 +1,5 @@
 # Data Science In Python
-Code following the Applied Data Science with Python Specialization MOOC by the University of Michigan
+Code following an Applied Data Science MOOC. Course is not specified as requested by instructors.
 
-## Intro-Basics
+## Intro
 Explore Data science basics including: jupyter, Pandas, Matplotlib and statistical analysis
